@@ -1,14 +1,21 @@
 Simple Calculator
+
+
 This is a simple Python program that provides a graphical user interface (GUI) for performing basic calculations. The calculator GUI is built using the Tkinter library.
+
 
 Getting Started
 These instructions will help you run the calculator on your local machine.
 
+
 Prerequisites
 You need to have Python installed on your system to run this program. Tkinter is included with most Python installations, so you don't need to install it separately.
 
+
+
 Running the Program
 Clone this repository to your local machine or download the script.
+
 
 Open your terminal or command prompt.
 
@@ -16,8 +23,8 @@ Navigate to the directory where the calculator.py file is located.
 
 Run the following command to start the calculator:
 
-bash
-Copy code
+
+
 python calculator.py
 The calculator GUI will open, and you can perform calculations using the buttons and input field.
 
